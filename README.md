@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## PHP介绍
 
-You can use the [editor on GitHub](https://github.com/15905203074/learn.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+PHP（全称：PHP：Hypertext Preprocessor，即"PHP：超文本预处理器"）是一种通用开源脚本语言。
 
-### Markdown
+PHP 是免费的，并且使用非常广泛。同时，对于像微软 ASP 这样的竞争者来说，PHP 无疑是另一种高效率的选项。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+为什么使用 PHP？
 
-```markdown
-Syntax highlighted code block
+PHP 可在不同的平台上运行（Windows、Linux、Unix、Mac OS X 等）
+PHP 与目前几乎所有的正在被使用的服务器相兼容（Apache、IIS 等）
+PHP 提供了广泛的数据库支持
+PHP 是免费的，可从官方的 PHP 资源下载它： www.php.net
+PHP 易于学习，并可高效地运行在服务器端
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/15905203074/learn.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Winter//:eyJzdHIiOiIwMzc4YTg3ZGU2YmQwOWUxMzkzYmVlMjhmYTQ3OWJiZSIsInRpbWVzdGFtcCI6MTU2NDA0MTkyMCwib3V0cHV0IjoiZ25XSGdqeVJnSkFQRkdLXC8wUkZzd1c5WmtxUlJZQ21uZFpReXFDdEVadGM4WGlFWU56T2JUVTNWXC9HUFlKREpETHJkTk41OUlId3RyZWExem5xUUdPK0g1MDg1U2NHY3FTZmxBRzJsMmZnRjNcLzdXVkpYNDNBMEk4WWJ0VFBocjNaTE9wUno5bExVdWpTbTgxQUgwRTNyaXhhYStXY1hOYUVuV2Y0UW1QbEkzUnNNZG9Fblo4THlDblpkYW1rT3FyWUtpbTg4b2gzQktGQTFDQmtiNnF3aEtjRGVOSnByVmhCV2hcL2duMGJRdFwvMEw1M2d3NXE1UWI4UGlpUFhmYkg3M0h2QUVZYU5JZCt0N3ROSGhPWnIrTHdKTG0yRjMyV05Kd1R2OE8xT2liYzErUkptZG9lN2U0TFJ3a1BpXC9lcVwvUUU1TzBUU2tqZThDVkJnWFhjV1UySX
